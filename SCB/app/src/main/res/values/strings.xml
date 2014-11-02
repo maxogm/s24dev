@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SCB</string>
+    <string name="title_item_detail">Details</string>
+    <string name="call.buton.name">Call</string>
+    <string name="Search" />
+    <string name="test" />
+
+</resources>
